@@ -9,13 +9,15 @@
 	scroll-behavior: smooth;
 }
 :root {
+	--white: #ffffff;
 	--primary: #1BFFBB;
 	--secondary: #A970FF;
 	/* --primary: #00fffd;
-	--secondary: #ff70f0; */
+	--secondary: #ff70f0;
 	--bg: #161420;
-	--white: #ffffff;
-	--nav: #1E1C2C;
+	--nav: #1E1C2C; */
+	--bg: #1E1C2C;
+	--nav: #222033;	
 }
 .primary {
 	color: var(--primary) !important;
