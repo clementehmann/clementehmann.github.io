@@ -228,7 +228,7 @@ header.sticky{
 	padding: 8px;
 	background: var(--nav);
 	border-bottom: 1px solid var(--nav);
-	background: rgba( 30, 28, 44, 0.93 );
+	background: rgba( 34, 32, 51, 0.93 );
 	backdrop-filter: blur( 18px );
 	-webkit-backdrop-filter: blur( 13.5px );
 }
