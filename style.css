@@ -815,6 +815,9 @@ body.light .progress-wrap svg.progress-circle path {
 	.mycontainernav {
 		width: 60vw !important;
 	}
+	#contact {
+		margin-bottom: 155px !important;
+	}
 }
 @media all and (max-width: 1602px){
 	h1 {
@@ -848,6 +851,9 @@ body.light .progress-wrap svg.progress-circle path {
 	}
 	.hero-left {
 		max-width: 900px;
+	}
+	#contact {
+		margin-bottom: 0 !important;
 	}
 }
 

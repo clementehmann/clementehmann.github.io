@@ -94,9 +94,9 @@ var animjs1 = {
     distance: '100%',
     origin: 'top',
     // delay: 700,
-    duration: 700,
+    duration: 850,
 	easing: 'ease',
-    reset: true
+    // reset: true
 };
 ScrollReveal().reveal('.animjs1', animjs1);
 
@@ -104,7 +104,7 @@ var animjs3 = {
     distance: '50%',
     origin: 'bottom',
     // delay: 700,
-    duration: 700,
+    duration: 850,
 	easing: 'ease'
 };
 ScrollReveal().reveal('.animjs3', animjs3);
