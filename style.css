@@ -988,9 +988,6 @@ body.light .progress-wrap svg.progress-circle path {
 	.card-about {
 		padding: 50px 30px 30px !important;
 	}
-	#about {
-		padding-top: 90px !important;
-	}
 }
 
 @media all and (max-width: 832px){
@@ -1063,9 +1060,6 @@ body.light .progress-wrap svg.progress-circle path {
 	}
 	.modal-cont .web {
 		width: 100% !important;	
-	}
-	#about {
-		padding-top:150px !important;
 	}
 	.mycv {
 		margin-bottom: 60px;
