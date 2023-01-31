@@ -853,6 +853,9 @@ body.light .progress-wrap svg.progress-circle path {
 	h1 {
 		font-size: 70px;
 	}
+	#contact {
+		margin-bottom: 0 !important;
+	}
 }
 @media all and (max-width: 1452px){
 	header.sticky{
